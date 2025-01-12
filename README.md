@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Maksymiuk
 
-🚀 **`Technical Product Manager | Full-Stack Developer | Innovator`**
+**`Technical Product Manager | Full-Stack Developer | AI, Crypto & Fintech Enthusiast`**
 
 ## 🙋‍♂️ Bio
 
