@@ -54,7 +54,3 @@ AI-powered tool to help retail investors analyze macro trends & suggest investme
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
-
