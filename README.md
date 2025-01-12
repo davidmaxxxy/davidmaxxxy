@@ -2,8 +2,6 @@
 
 🚀 **Technical Product Manager | Full-Stack Developer | Innovator**
 
----
-
 ## 🙋‍♂️ Bio
 
 **Product Manager turned Software Engineer passionate about solving real-world problems through data-driven strategies and AI-powered solutions.**
@@ -16,7 +14,6 @@ To deepen my technical expertise, I completed a **Software Engineering Bootcamp*
 
 I am actively exploring opportunities as a **Software Engineer**, eager to join a dynamic company tackling big problems with innovative solutions, collaborating with a team of industry experts to make a meaningful impact.
 
----
 
 ## 💼 Current Role
 
@@ -27,7 +24,6 @@ I am actively exploring opportunities as a **Software Engineer**, eager to join 
   - 📊 Enhanced customer onboarding with data-driven strategies and A/B testing, achieving a **22% CAC reduction** and higher conversion rates.  
   - 🤖 Led cross-functional teams to deliver **AI-driven solutions** combating fraud and streamlining issue resolution.  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -41,15 +37,12 @@ I am actively exploring opportunities as a **Software Engineer**, eager to join 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
 
 ### 🌐 [LungoAI](https://lungo-ai.vercel.app/)
 AI-powered tool to help retail investors analyze macro trends & suggest investment ideas to support long-term investment decisions.  
 **Tech Stack:** React.js, Node.js, MySQL, OpenAI  
 [![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/yourusername/lungoai](https://github.com/davidmaxxxy/lungoAI))  
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=vercel)](https://lungo-ai.vercel.app/)
-
----
 
 ## 📫 Let's Connect!
 
