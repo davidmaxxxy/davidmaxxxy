@@ -12,9 +12,6 @@ My hunger to make the most of global opportunities brought me to the 🇬🇧 UK
 
 To deepen my technical expertise, I completed a **Software Engineering Bootcamp** at **BrainStation**, sharpening my frontend skills (*HTML5, CSS, JavaScript, React.js*) and expanding into backend development (*Node.js, Knex.js, MySQL*).
 
-I am actively exploring opportunities as a **Software Engineer**, eager to join a dynamic company tackling big problems with innovative solutions, collaborating with a team of industry experts to make a meaningful impact.
-
-
 ## 💼 Current Role
 
 - **Product Lead** at **Cynergy Bank**  
