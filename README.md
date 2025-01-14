@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Bio
 
-**Product Manager turned Software Engineer passionate about solving real-world problems through data-driven strategies and AI-powered solutions.**
+**Product Manager / Software Engineer passionate about solving real-world problems through data-driven strategies and AI-powered solutions.**
 
 Born and raised between 🇩🇪 Germany & 🇵🇱 Poland, I gained a unique perspective on both developed and developing economies. This experience ignited my passion for economics, business, and innovation as drivers of growth and prosperity. Constantly exchanging currencies 💶<>💷 also sparked my deep interest in finance, eventually leading me into the world of cryptocurrencies and fintech.
 
@@ -18,8 +18,8 @@ To deepen my technical expertise, I completed a **Software Engineering Bootcamp*
   - 💰 Driving **£30M+** in customer deposits through product innovation by managing a team of talented engineers.  
   - 📱 Launched new **Online Banking & Mobile App** enhancing UX, automation, self-serve capabilities, and operational efficiency.  
   - 🔧 Optimized payment services by addressing key customer pain points, increasing **ARPC by 25%**.  
-  - 📊 Enhanced customer onboarding with data-driven strategies and A/B testing, achieving a **22% CAC reduction** and higher conversion rates.  
-  - 🤖 Led cross-functional teams to deliver **AI-driven solutions** combating fraud and streamlining issue resolution.  
+  - 📊 Enhanced customer onboarding with data-driven strategies and A/B testing, achieving a **22% CAC reduction** via higher conversion rates.  
+  - 🤖 Led cross-functional teams to deliver **AI-driven solutions** combating fraud, streamlining issue resolution & reducing complaints.
 
 
 ## 🛠️ Tech Stack
